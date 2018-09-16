@@ -1,2 +1,6 @@
-# exercism
-solutions to exercism problems
+# Exercism
+
+Solutions to https://exercism.io in:
+
+- rust
+- haskell
